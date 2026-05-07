@@ -1,16 +1,80 @@
-## Hi there 👋
+# Oi, eu sou a Beatriz 👋
 
-<!--
-**afbeah/afbeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Full Stack e estudante de Engenharia de Software, com experiência no desenvolvimento de aplicações web utilizando React, TypeScript, Golang e Node.js.
 
-Here are some ideas to get you started:
+Atualmente tenho foco em frontend moderno, experiência do usuário e desenvolvimento de aplicações escaláveis, além de interesse em arquitetura backend utilizando Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+
+### Backend
+
+* Golang
+* Node.js
+* APIs REST
+
+### Banco de Dados
+
+* MongoDB
+* SQL
+* SQLite
+
+---
+
+## 📌 Projetos em Destaque
+
+### Loquor-Sign
+
+Projeto voltado para acessibilidade e comunicação alternativa.
+
+* Frontend com React e TypeScript
+* Backend com Golang
+* Foco em acessibilidade e experiência do usuário
+* Estruturação de protótipo e interface no Figma
+
+---
+
+### FURIA Bot
+
+Chatbot desenvolvido para fãs do time de CS da FURIA.
+
+* Integração com Telegram
+* Experiência conversacional
+* Notícias, agenda e funcionalidades interativas
+
+---
+
+### APIs REST em Go
+
+Projetos backend para estudo e prática de arquitetura de APIs.
+
+* Golang
+* SQLite e MongoDB
+* Estruturação de handlers e rotas
+* Organização de backend e versionamento
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Desenvolvimento Frontend Moderno
+* APIs REST
+* Docker
+* Boas práticas de engenharia de software
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [linkedin.com/in/beafrança](https://linkedin.com/in/beafrança)
+* E-mail: [beahabreu@gmail.com](mailto:beahabreu@gmail.com)
