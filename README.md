@@ -1,4 +1,4 @@
-# Oi, eu sou a Beatriz 👋
+# Oi, eu sou a Bea 👋
 
 Desenvolvedora Full Stack e estudante de Engenharia de Software, com experiência no desenvolvimento de aplicações web utilizando React, TypeScript, Golang e Node.js.
 
