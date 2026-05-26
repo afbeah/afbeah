@@ -21,6 +21,8 @@ Atualmente tenho foco em frontend moderno, experiência do usuário e desenvolvi
 * Golang
 * Node.js
 * APIs REST
+* Java
+* Spring Boot
 
 ### Banco de Dados
 
