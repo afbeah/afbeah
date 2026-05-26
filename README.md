@@ -45,13 +45,15 @@ Projeto voltado para acessibilidade e comunicação alternativa.
 
 ---
 
-### FURIA Bot
+### ScoutVision
 
-Chatbot desenvolvido para fãs do time de CS da FURIA.
+API REST desenvolvida em Java/Spring Boot para análise inteligente de jogadores e equipes esportivas utilizando dados e geração de insights.
 
-* Integração com Telegram
-* Experiência conversacional
-* Notícias, agenda e funcionalidades interativas
+- Java + Spring Boot
+- Estruturação de APIs REST
+- Arquitetura backend
+- Análise baseada em dados
+- Projeto em evolução
 
 ---
 
@@ -68,11 +70,12 @@ Projetos backend para estudo e prática de arquitetura de APIs.
 
 ## 📚 Atualmente estudando
 
-* Arquitetura de Software
-* Desenvolvimento Frontend Moderno
-* APIs REST
-* Docker
-* Boas práticas de engenharia de software
+- AI Engineering
+- Prompt Engineering
+- Arquitetura de Software
+- Desenvolvimento Frontend Moderno
+- Docker
+- Boas práticas de engenharia de software
 
 ---
 
