@@ -29,6 +29,8 @@ Atualmente tenho foco em frontend moderno, experiência do usuário e desenvolvi
 * MongoDB
 * SQL
 * SQLite
+* MySQL
+* PostgreSQL
 
 ---
 
