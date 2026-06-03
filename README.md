@@ -1,8 +1,8 @@
 # Oi, eu sou a Bea 👋
 
-Desenvolvedora Full Stack e estudante de Engenharia de Software, com experiência no desenvolvimento de aplicações web utilizando React, TypeScript, Golang e Node.js.
+Desenvolvedora Full Stack e estudante de Engenharia de Software, apaixonada por transformar problemas reais em produtos digitais.
 
-Atualmente tenho foco em frontend moderno, experiência do usuário e desenvolvimento de aplicações escaláveis, além de interesse em arquitetura backend utilizando Go.
+Tenho experiência com React, TypeScript, Golang, Java e desenvolvimento de APIs REST. Atualmente meu foco está em frontend moderno, experiência do usuário, arquitetura de software e aplicações que combinam tecnologia, acessibilidade e inteligência artificial.
 
 ---
 
@@ -19,69 +19,115 @@ Atualmente tenho foco em frontend moderno, experiência do usuário e desenvolvi
 ### Backend
 
 * Golang
-* Node.js
-* APIs REST
 * Java
 * Spring Boot
+* Node.js
+* FastAPI
+* APIs REST
 
 ### Banco de Dados
 
 * MongoDB
-* SQL
-* SQLite
-* MySQL
 * PostgreSQL
+* MySQL
+* SQLite
+* SQL
+
+### Ferramentas
+
+* Git & GitHub
+* Docker
+* Postman
+* Figma
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### Loquor-Sign
+### 🗣️ Loquor-Sign
 
 Projeto voltado para acessibilidade e comunicação alternativa.
 
-* Frontend com React e TypeScript
-* Backend com Golang
+* Frontend desenvolvido com React e TypeScript
+* Backend em Golang
 * Foco em acessibilidade e experiência do usuário
-* Estruturação de protótipo e interface no Figma
+* Prototipação e validação de interface utilizando Figma
+* Projeto em evolução
 
 ---
 
-### ScoutVision
+### ⚽ ScoutVision
 
-API REST desenvolvida em Java/Spring Boot para análise inteligente de jogadores e equipes esportivas utilizando dados e geração de insights.
+Plataforma para análise esportiva e gestão de informações de atletas.
 
-- Java + Spring Boot
-- Estruturação de APIs REST
-- Arquitetura backend
-- Análise baseada em dados
-- Projeto em evolução
+* Backend com Java e Spring Boot
+* APIs REST
+* Modelagem de domínio esportivo
+* Estruturação de funcionalidades para análise e acompanhamento de atletas
+* Projeto autoral em desenvolvimento contínuo
 
 ---
 
-### APIs REST em Go
+### 🤖 UClassify
 
-Projetos backend para estudo e prática de arquitetura de APIs.
+Aplicação web para classificação inteligente de e-mails e sugestão automática de respostas utilizando inteligência artificial.
 
-* Golang
-* SQLite e MongoDB
-* Estruturação de handlers e rotas
-* Organização de backend e versionamento
+* Python e Flask
+* Hugging Face Transformers
+* Processamento de arquivos PDF
+* Classificação de conteúdo textual
+* IA aplicada à produtividade
+
+---
+
+### 📊 Public Spending API
+
+API desenvolvida para consulta e agregação de dados de gastos públicos.
+
+* FastAPI
+* SQLModel
+* Docker
+* Cache em memória
+* Testes automatizados
+* Estruturação de arquitetura backend
+
+---
+
+### 📚 BooksList & 🎮 GameMatch
+
+Projetos pessoais desenvolvidos para gerenciamento de leituras e partidas esportivas acompanhadas.
+
+* APIs REST em Golang
+* Persistência com SQLite
+* Organização em camadas
+* Evolução baseada em necessidades reais de uso
 
 ---
 
 ## 📚 Atualmente estudando
 
-- AI Engineering
-- Prompt Engineering
-- Arquitetura de Software
-- Desenvolvimento Frontend Moderno
-- Docker
-- Boas práticas de engenharia de software
+* AI Engineering
+* Prompt Engineering
+* Arquitetura de Software
+* Desenvolvimento Frontend Moderno
+* Docker
+* Boas práticas de Engenharia de Software
+* Inteligência Artificial aplicada a produtos
+
+---
+
+## 🎯 Interesses
+
+* Frontend e Experiência do Usuário
+* Inteligência Artificial
+* Acessibilidade Digital
+* Arquitetura de Software
+* Desenvolvimento de Produtos
+* Esportes e Tecnologia
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: [linkedin.com/in/beafrança](https://linkedin.com/in/beafrança)
+* LinkedIn: https://linkedin.com/in/beafrança
 * E-mail: [beahabreu@gmail.com](mailto:beahabreu@gmail.com)
