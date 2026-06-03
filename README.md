@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="github-banner png" src="https://github.com/user-attachments/assets/74a02943-816d-4513-8ab9-e06704829588" />
+
 # Oi, eu sou a Bea 👋
 
 Desenvolvedora Full Stack e estudante de Engenharia de Software, apaixonada por transformar problemas reais em produtos digitais.
