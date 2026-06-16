@@ -2,7 +2,7 @@
 
 # Oi, eu sou a Bea 👋
 
-Desenvolvedora Full Stack e estudante de Engenharia de Software, apaixonada por transformar problemas reais em produtos digitais.
+Desenvolvedora Fullstack e estudante de Engenharia de Software, apaixonada por transformar problemas reais em produtos digitais.
 
 Tenho experiência com React, TypeScript, Golang, Java e desenvolvimento de APIs REST. Atualmente meu foco está em frontend moderno, experiência do usuário, arquitetura de software e aplicações que combinam tecnologia, acessibilidade e inteligência artificial.
 
