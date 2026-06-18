@@ -1,4 +1,4 @@
-<img src="https://github.com/afbeah/afbeah/blob/main/github-banner.png.png?raw=true" alt="GitHub Banner">
+<img src="https://github.com/afbeah/afbeah/blob/main/assets/github-banner.png?raw=true" alt="GitHub Banner">
 
 # Oi, eu sou a Bea 👋
 
