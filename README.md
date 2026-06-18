@@ -32,5 +32,6 @@ Git & GitHub • Docker • Postman • Figma
 
 ## 📫 Contato
 
-* LinkedIn: linkedin.com/in/beafrança
-* E-mail: [beahabreu@gmail.com](mailto:beahabreu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Abreu-orange?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/beafrança)
+
+[![Email](https://img.shields.io/badge/Email-Contato-orange?style=for-the-badge&logo=gmail)](mailto:beahabreu@gmail.com)
