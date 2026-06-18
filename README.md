@@ -1,3 +1,5 @@
+<img src="https://github.com/afbeah/afbeah/blob/main/github-banner.png.png?raw=true" alt="GitHub Banner">
+
 # Oi, eu sou a Bea 👋
 
 Sou Software Engineer com interesse em desenvolvimento de produtos, arquitetura de software e experiências digitais acessíveis.
